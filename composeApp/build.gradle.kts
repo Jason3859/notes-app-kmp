@@ -101,7 +101,7 @@ compose.desktop {
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "dev.jason.app.compose.multiplatform"
+            packageName = "Notes"
             packageVersion = "1.0.0"
         }
     }
